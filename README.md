@@ -20,6 +20,10 @@ I have used this command for fulfil the above purposes.
 | MAX | Get the maximum value from the column |
 | SUM | Get sum of the column values |
 | CONVERT | Change the data type of the column values |
+
+https://github.com/iamistiyak/SQL_DATA_EXPLORATION/assets/86108816/06769fd6-1cbc-4e80-a293-3984270c4f77
+
+
 | CAST | Change the data type of the column values |
 | JOIN | Join the tables |
 | WHERE | For the implementing the condition|
