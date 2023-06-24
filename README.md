@@ -36,4 +36,8 @@ I have used this command for fulfil the above purposes.
 
 
 **DATASET:** https://ourworldindata.org/covid-deaths <br><br>
-https://github.com/iamistiyak/SQL_DATA_EXPLORATION/assets/86108816/06769fd6-1cbc-4e80-a293-3984270c4f77
+
+
+https://github.com/iamistiyak/SQL_DATA_EXPLORATION/assets/86108816/c8bd1b78-572a-4559-a191-2290671c47aa
+
+
