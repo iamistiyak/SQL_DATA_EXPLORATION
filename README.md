@@ -1,6 +1,7 @@
 # SQL_DATA_EXPLORATION
 **Description:** I have used this Covid-19 data set for exploration purposes.<br><br>
 **Prerequisite:** SQL Server(Version:Developer), SQL Server Management Studio (SSMS) for frontend, for import pupose I have used import export wizard [Version: SQL Server 2022 Import and Export Data(64-bit)].<br><br>
+I have divided this dataset into the 2 different excel files 1)CovidDeaths 2)CovidVaccinations in these files I have used perticular few columns for getting the insights.<br><br>
 I Got these insights from this excel dataset.<br><br>
 | **Explorations** |
 | :---: |
@@ -31,6 +32,7 @@ I have used this command for fulfil the above purposes.
 | TEMP TABLE | Calculate the percentage of new vaccine takers |
 | INSERT INTO | Insert the values in the table |
 | DATA TYPES | nvarchar(255)-Strings, numerics - integers,flot etc.., datetime - Date | <br><br><br><br>
+| DECIMAL(15,3) |  Means the value can have 3 digits overall and 2 digits to the right of the decimal point |
 
 
 
