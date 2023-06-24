@@ -23,7 +23,6 @@ I have used this command for fulfil the above purposes.
 | CAST | Change the data type of the column values |
 | JOIN | Join the tables |
 | WHERE | For the implementing the condition|
-| DISTINCT | For finding the distinct values in the column |
 | COUNT | Count the column values|
 | GROUP BY | Grouping the column values to get overall insights |
 | ORDER BY | Can sort the table according to the the column values |
@@ -33,7 +32,7 @@ I have used this command for fulfil the above purposes.
 | INSERT INTO | Insert the values in the table |
 | DATA TYPES | nvarchar(255)-Strings, numerics - integers,flot etc.., datetime - Date | <br><br><br><br>
 | DECIMAL(15,3) |  Means the value can have 3 digits overall and 2 digits to the right of the decimal point |
-
+| CREATE VIEW | To save the code for later visulizations |
 
 
 **DATASET:** https://ourworldindata.org/covid-deaths <br><br>
