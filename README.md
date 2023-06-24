@@ -13,6 +13,7 @@ I Got these insights from this excel dataset.<br><br>
 | Global death percentage |
 | Total Population vs Vaccination |<br><br><br><br>
 
+I have used this command for fulfil the above purposes.
 | Command | Description |
 | :--- | --- |
 | MAX | Get the maximum value from the column |
